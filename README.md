@@ -20,7 +20,9 @@
   * You can now access the Note Taker Application
 
   ## Usage
- 
+ <img width="1291" alt="Screen Shot 2022-01-04 at 11 54 16 PM" src="https://user-images.githubusercontent.com/68092036/148162527-6ff69b60-f7bd-4ca9-8ab6-f50faab739d7.png">
+<img width="1292" alt="Screen Shot 2022-01-04 at 11 54 31 PM" src="https://user-images.githubusercontent.com/68092036/148162532-b464062a-8048-4ce1-9d47-d8be16e71a6a.png">
+
 
 
   Heroku Link:  https://vast-fortress-52370.herokuapp.com/
